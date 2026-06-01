@@ -36,11 +36,11 @@ Example: "Peer-to-peer transfers above INR 50,000 between
 despite being only 6% of total volume."
 ## How to Run
 1. Download dataset from Kaggle link above
-2. Load CSV into PostgreSQL or SQLite
-3. Run queries from /sql/fraud_analysis.sql
-4. Open /powerbi/fraud_dashboard.pbix in Power BI Desktop
+2. Load CSV into MYSQL
+3. Run queries from upi_fraud.sql
+4. Open fraud_dashboard.pbix in Power BI Desktop
 ## Files in This Repo
-/sql/fraud_analysis.sql - All SQL queries
-/powerbi/fraud_dashboard.pbix - Power BI dashboard file
-/screenshots/dashboard.png - Dashboard preview
+upi_fraud.sql - All SQL queries
+fraud_dashboard.pbix - Power BI dashboard file
+dashboard.png - Dashboard preview
 README.md - This file
