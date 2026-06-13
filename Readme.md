@@ -25,17 +25,16 @@ behaviour baseline
 - Transaction type breakdown
 - Drill-through on flagged accounts
 ## Key Finding
-[Write your actual finding here]
-Example: "Peer-to-peer transfers above INR 50,000 between
-11 PM and 3 AM accounted for 34% of all flagged transactions
-despite being only 6% of total volume."
+ - Failed login attempts are the leading fraud indicator, contributing 43.39% of the overall fraud risk.
+- Bank of Baroda recorded the highest fraud loss (~₹872K), indicating the greatest financial impact among analyzed banks.
+- A total of 965 fraudulent transactions resulted in ₹4.80M in losses, with an overall fraud rate of 9.65%.
 ## How to Run
 1. Download dataset from Kaggle link above
 2. Load CSV into MYSQL
 3. Run queries from upi_fraud.sql
-4. Open fraud_dashboard.pbix in Power BI Desktop
+4. Open fraud_analysis.pbix in Power BI Desktop
 ## Files in This Repo
 upi_fraud.sql - All SQL queries
-fraud_dashboard.pbix - Power BI dashboard file
+fraud_analysis.pbix - Power BI dashboard file
 dashboard.png - Dashboard preview
 README.md - This file
