@@ -1,17 +1,12 @@
 # UPI Transaction Fraud Detection Dashboard
 ## Business Question
-## Fraud Detection
-1. Which transaction types have the highest fraud rates?
-2. Are frauds concentrated during specific hours?
-3. Which users make unusually large transactions?
-4. What percentage of transactions are fraudulent?
-5. Are there balance inconsistencies associated with fraud?
-## Risk Monitoring
-6. Which accounts should be flagged for investigation?
-7. What is the trend of fraud over time?
-8. Which transaction amounts are most risky?
-9. Which transaction types trigger most fraud losses?
-10. How effective is system flagging compared to actual fraud?
+1. What is our overall fraud rate?
+2. Is fraud increasing or decreasing over time?
+3. Which locations are generating the most fraud?
+4. Which transaction types are most vulnerable to fraud?
+5. What fraud indicators are most common among fraudulent transactions?
+6. Which banks or merchant categories experience the highest fraud?
+7. Which accounts should be investigated immediately?
 ## Tools Used
 - SQL (MY SQL)
 - Power BI (dashboard and visualisation)
