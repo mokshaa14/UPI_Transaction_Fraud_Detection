@@ -41,7 +41,7 @@ behaviour baseline
 3. Run queries from upi_fraud.sql
 4. Open fraud_analysis.pbix in Power BI Desktop
 ## Files in This Repo
-upi_fraud.sql - All SQL queries
-fraud_analysis.pbix - Power BI dashboard file
-dashboard.png - Dashboard preview
-README.md - This file
+- upi_fraud.sql - All SQL queries
+- fraud_analysis.pbix - Power BI dashboard file
+- dashboard.png - Dashboard Preview
+- README.md - This file
