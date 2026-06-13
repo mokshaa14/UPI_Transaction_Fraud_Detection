@@ -11,10 +11,17 @@
 - SQL (MY SQL)
 - Power BI (dashboard and visualisation)
 ## Dataset
+## used for sql analysis
 Source: Kaggle - Online Payments Fraud Detection Dataset
 Link: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 Size: 6.3 million transaction records
 Key columns: step, type, amount, nameOrig, nameDest, isFraud
+## used for Powerbi Dashboard
+Source: Kaggle - Fraud UPI Transaction Details
+(Kaggle)
+Link: https://www.kaggle.com/datasets/iamravi11/fraud-upi-transaction-details
+Size: 10,000+ million transaction records 
+
 ## What I Built
 1. SQL queries to identify anomalous transactions by user
 behaviour baseline
